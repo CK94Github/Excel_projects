@@ -1,4 +1,15 @@
 # Excel_projects
+
+![Uploading overview.png…]()
+
+
+
+
+
+
+
+
+
 Dashboards_using excel
 created a sales dashboard in Excel that can help analyse the store’s sales performance. Also, it could help improve work management across the different selling platforms.-
 As per data source, we have only the basic order information. This should be available for any online store and most stores have a sales/order workbook in hand.
